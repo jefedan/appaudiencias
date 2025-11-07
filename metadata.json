@@ -1,0 +1,7 @@
+{
+  "name": "Asistente de Audiencias IA",
+  "description": "Una aplicación para transcripción de audio a texto, conversión de texto a voz y transformación de documentos (Word, PDF) a audio. Ideal para audiencias y manejo de documentos legales.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
